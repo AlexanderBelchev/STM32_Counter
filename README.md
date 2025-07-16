@@ -61,7 +61,7 @@ The components used in project are
 
 ## How to setup
 
-### Linked script
+### Linker script
 
 There is a file in this repository named "stm32f401.ld". This is the *linked script*.  
 Depending on the chip that is being used (STM32F401, STM32F031, etc.) certain values  
